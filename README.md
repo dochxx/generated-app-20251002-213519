@@ -1,6 +1,6 @@
 # VizEdge: Dynamic Data Visualizer
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dochxx/generated-app-20251002-213519)
 
 VizEdge is a sophisticated, single-page web application designed for rapid data visualization. It empowers users to upload CSV or XLSX files and instantly generate interactive charts and a corresponding data table. The core principle is a unique 'No-XY' visualization model where the chart's X-axis represents the data's row index, and the Y-axis plots the values from a single, user-selected numerical column. The interface is meticulously crafted for an intuitive experience, featuring a sleek two-panel layout with the chart on the left and the data table on the right. A centralized control panel at the top allows for dynamic selection of numerical columns and chart types (Bar, Line, Pie), with all visualizations updating in real-time.
 
@@ -89,7 +89,7 @@ This project is optimized for deployment on the Cloudflare network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dochxx/generated-app-20251002-213519)
 
 ### Manual Deployment with Wrangler
 
